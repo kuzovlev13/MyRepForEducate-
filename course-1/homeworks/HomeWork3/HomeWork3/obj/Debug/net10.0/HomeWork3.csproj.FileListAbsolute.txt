@@ -1,0 +1,15 @@
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork3\HomeWork3\bin\Debug\net10.0\HomeWork3.exe
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork3\HomeWork3\bin\Debug\net10.0\HomeWork3.deps.json
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork3\HomeWork3\bin\Debug\net10.0\HomeWork3.runtimeconfig.json
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork3\HomeWork3\bin\Debug\net10.0\HomeWork3.dll
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork3\HomeWork3\bin\Debug\net10.0\HomeWork3.pdb
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork3\HomeWork3\obj\Debug\net10.0\HomeWork3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork3\HomeWork3\obj\Debug\net10.0\HomeWork3.AssemblyInfoInputs.cache
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork3\HomeWork3\obj\Debug\net10.0\HomeWork3.AssemblyInfo.cs
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork3\HomeWork3\obj\Debug\net10.0\HomeWork3.csproj.CoreCompileInputs.cache
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork3\HomeWork3\obj\Debug\net10.0\HomeWork3.sourcelink.json
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork3\HomeWork3\obj\Debug\net10.0\HomeWork3.dll
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork3\HomeWork3\obj\Debug\net10.0\refint\HomeWork3.dll
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork3\HomeWork3\obj\Debug\net10.0\HomeWork3.pdb
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork3\HomeWork3\obj\Debug\net10.0\HomeWork3.genruntimeconfig.cache
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork3\HomeWork3\obj\Debug\net10.0\ref\HomeWork3.dll
