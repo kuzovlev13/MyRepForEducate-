@@ -1,0 +1,15 @@
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork(12.12.25)\HomeWork(12.12.25)\bin\Debug\net10.0\HomeWork(12.12.25).exe
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork(12.12.25)\HomeWork(12.12.25)\bin\Debug\net10.0\HomeWork(12.12.25).deps.json
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork(12.12.25)\HomeWork(12.12.25)\bin\Debug\net10.0\HomeWork(12.12.25).runtimeconfig.json
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork(12.12.25)\HomeWork(12.12.25)\bin\Debug\net10.0\HomeWork(12.12.25).dll
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork(12.12.25)\HomeWork(12.12.25)\bin\Debug\net10.0\HomeWork(12.12.25).pdb
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork(12.12.25)\HomeWork(12.12.25)\obj\Debug\net10.0\HomeWork(12.12.25).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork(12.12.25)\HomeWork(12.12.25)\obj\Debug\net10.0\HomeWork(12.12.25).AssemblyInfoInputs.cache
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork(12.12.25)\HomeWork(12.12.25)\obj\Debug\net10.0\HomeWork(12.12.25).AssemblyInfo.cs
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork(12.12.25)\HomeWork(12.12.25)\obj\Debug\net10.0\HomeWork(12.12.25).csproj.CoreCompileInputs.cache
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork(12.12.25)\HomeWork(12.12.25)\obj\Debug\net10.0\HomeWork(12.12.25).sourcelink.json
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork(12.12.25)\HomeWork(12.12.25)\obj\Debug\net10.0\HomeWork(12.12.25).dll
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork(12.12.25)\HomeWork(12.12.25)\obj\Debug\net10.0\refint\HomeWork(12.12.25).dll
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork(12.12.25)\HomeWork(12.12.25)\obj\Debug\net10.0\HomeWork(12.12.25).pdb
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork(12.12.25)\HomeWork(12.12.25)\obj\Debug\net10.0\HomeWork(12.12.25).genruntimeconfig.cache
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\homeworks\HomeWork(12.12.25)\HomeWork(12.12.25)\obj\Debug\net10.0\ref\HomeWork(12.12.25).dll
