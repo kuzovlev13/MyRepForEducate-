@@ -1,0 +1,15 @@
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\practices\PracticeNumber5\PracticeNumber5\bin\Debug\net10.0\PracticeNumber5.exe
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\practices\PracticeNumber5\PracticeNumber5\bin\Debug\net10.0\PracticeNumber5.deps.json
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\practices\PracticeNumber5\PracticeNumber5\bin\Debug\net10.0\PracticeNumber5.runtimeconfig.json
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\practices\PracticeNumber5\PracticeNumber5\bin\Debug\net10.0\PracticeNumber5.dll
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\practices\PracticeNumber5\PracticeNumber5\bin\Debug\net10.0\PracticeNumber5.pdb
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\practices\PracticeNumber5\PracticeNumber5\obj\Debug\net10.0\PracticeNumber5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\practices\PracticeNumber5\PracticeNumber5\obj\Debug\net10.0\PracticeNumber5.AssemblyInfoInputs.cache
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\practices\PracticeNumber5\PracticeNumber5\obj\Debug\net10.0\PracticeNumber5.AssemblyInfo.cs
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\practices\PracticeNumber5\PracticeNumber5\obj\Debug\net10.0\PracticeNumber5.csproj.CoreCompileInputs.cache
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\practices\PracticeNumber5\PracticeNumber5\obj\Debug\net10.0\PracticeNumber5.sourcelink.json
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\practices\PracticeNumber5\PracticeNumber5\obj\Debug\net10.0\PracticeNumber5.dll
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\practices\PracticeNumber5\PracticeNumber5\obj\Debug\net10.0\refint\PracticeNumber5.dll
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\practices\PracticeNumber5\PracticeNumber5\obj\Debug\net10.0\PracticeNumber5.pdb
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\practices\PracticeNumber5\PracticeNumber5\obj\Debug\net10.0\PracticeNumber5.genruntimeconfig.cache
+C:\Users\kuzov\OneDrive\Рабочий стол\pazzle-portfolio\course-1\practices\PracticeNumber5\PracticeNumber5\obj\Debug\net10.0\ref\PracticeNumber5.dll
